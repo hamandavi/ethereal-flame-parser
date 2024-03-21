@@ -1,0 +1,24 @@
+{
+  "name": "ethereal-flame-parser",
+  "version": "1.0.1",
+  "description": "A lightweight HTML parser for Node.js and the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hamandavi/ethereal-flame-parser"
+  },
+  "keywords": [
+    "html",
+    "parser",
+    "parsing",
+    "dom",
+    "browser"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "htmlparser2": "^6.0.0"
+  }
+}
